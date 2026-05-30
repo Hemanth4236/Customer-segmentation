@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Gender,Age,AnnualIncome,SpendingScore,Recency,Frequency,Monetary
+1,Jairam,Male,24,450000,81,5,20,15000
+2,Sneha,Female,22,520000,77,8,18,12000
+3,Rahul,Male,35,800000,40,30,8,25000
+4,Priya,Female,28,650000,65,12,15,18000
+5,Amit,Male,45,1200000,20,60,4,50000
+6,Divya,Female,32,900000,55,25,10,30000
+7,Karthik,Male,29,700000,70,15,14,22000
+8,Ananya,Female,26,550000,85,4,22,17000
+9,Rohan,Male,38,1100000,35,40,6,45000
+10,Pooja,Female,30,750000,60,18,12,28000
+11,Vikram,Male,41,1500000,15,75,3,60000
+12,Kavya,Female,27,600000,80,6,19,16000
+13,Arjun,Male,33,850000,50,20,11,32000
+14,Meera,Female,36,950000,45,28,9,35000
+15,Sanjay,Male,31,720000,68,14,16,21000
